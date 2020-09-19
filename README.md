@@ -9,4 +9,4 @@ Hi everyone,
   
   
   ![cppcheck-action](https://github.com/99002611/SCIENTIFIC-CALCULATOR-fx-100MS/workflows/cppcheck-action/badge.svg)
-  
+  ![CI](https://github.com/99002611/SCIENTIFIC-CALCULATOR-fx-100MS/workflows/CI/badge.svg)
